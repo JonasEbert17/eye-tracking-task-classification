@@ -3,7 +3,7 @@
 Code for my Master's thesis in Human Factors at TU Berlin (2026).
 
 > \\\\\\\*\\\\\\\*Thesis:\\\\\\\*\\\\\\\* \\\\\\\*Predicting Tasks from Eye-Tracking Data Using Machine Learning\\\\\\\*
-> \\\\\\\*\\\\\\\*Author:\\\\\\\*\\\\\\\* Jonas Ebert · \\\\\\\*
+> \\\\\\\*\\\\\\\*Author:\\\\\\\*\\\\\\\* Jonas Ebert · \\\\\\\*\\\\\\\*
 
 ## Overview
 
